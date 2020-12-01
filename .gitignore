@@ -1,0 +1,11 @@
+.vscode
+bin
+obj
+C.cbp
+C.layout
+ex03.exe
+EX03EN.pdf
+EX03Sol.pdf
+api_windows.pdf
+main.o
+main.exe
